@@ -1,92 +1,97 @@
 <div align="center">
-  <h1>Hi, I'm Cooper</h1>
-  <p>OUC · Qingdao, Shandong · AI Agents · Data Analysis</p>
-  <p>
-    I build practical agent systems for structured data analysis,
-    with a focus on reproducible workflows, traceable execution, and usable results.
-  </p>
 
-  <p>
-    <a href="https://github.com/healer-666">GitHub</a>
-  </p>
-</div>
+# Cooper
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Active-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-Building-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Analysis-Structured-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Practical-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSAPP-Learning-black?style=for-the-badge" />
+### AI Agents · Structured Data Analysis · Research Workflow
+
+<p>
+  <a href="https://github.com/healer-666">
+    <img src="https://img.shields.io/badge/GitHub-healer--666-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Qingdao,_Shandong-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/School-OUC-2563EB?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-06B6D4?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow_Audit-E11D48?style=flat-square&logo=target&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ## About Me
 
-I am currently focused on:
+I’m focused on building **practical AI agent systems** for **structured data analysis**.
 
-- building practical AI agent workflows
-- structured data analysis for academic and research scenarios
-- making analysis systems more reproducible, auditable, and easier to iterate on
-- learning by building, documenting, and refining real projects
+My interests include:
 
-## Selected Projects
+- agent workflow design
+- retrieval-augmented generation
+- reproducible analysis pipelines
+- traceable execution and reviewable outputs
 
-### My-Academic-Data-Agent
-A structured data analysis agent workspace designed for academic and research use cases.
-
-- controlled analysis workflow
-- Python-based cleaning, statistics, plotting, and report generation
-- RAG-enhanced context retrieval
-- history replay, review records, and artifact export
-
-**Tech:** Python, Gradio, RAG, data analysis workflow  
-**Repo:** [My-Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
-
-### csapp-datalab-
-Notes and understanding from working through the CSAPP Data Lab.
-
-- bit-level reasoning
-- low-level problem solving
-- learning-oriented writeups
-
-**Repo:** [csapp-datalab-](https://github.com/healer-666/csapp-datalab-)
-
-### hello-agents
-A fork-based learning and exploration repository around agent systems.
-
-- hands-on study of agent concepts and implementations
-- learning through open-source materials and experiments
-
-**Repo:** [hello-agents](https://github.com/healer-666/hello-agents)
+> I prefer systems that are useful, auditable, and built for real workflows.
 
 ---
 
-## Current Focus
+## Featured Project
 
-- AI agents for real-world workflows
-- structured data understanding and analysis
-- better memory, retrieval, and execution design
-- turning ideas into working systems
+### [My-Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
 
-## GitHub Snapshot
+A practical academic data analysis agent for structured tabular data.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=healer-666&show_icons=true&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healer-666&layout=compact&hide_border=true" />
+#### Highlights
+
+- Controlled analysis workflow instead of free-form chatting
+- Engineering-oriented RAG with retrieval, reranking, and evidence tracking
+- Stage audit to verify analysis is actually based on cleaned full data
+- History Q&A for comparing and revisiting previous runs
+- Gradio workspace for running tasks, replaying history, and downloading artifacts
+
+#### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF6B35?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-16A34A?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSV/XLS/XLSX-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent_Workflow-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
+#### Project Focus
+
+- structured table understanding
+- automatic cleaning, statistics, and plotting
+- reviewer loop and artifact validation
+- report generation with evidence support
+- reusable memory for successful and failed runs
+
 ---
 
-## Philosophy
-
-I prefer projects that are:
-
-- useful instead of flashy
-- clear instead of over-engineered
-- traceable instead of opaque
-- continuously improved through practice
+## GitHub Stats
 
 <div align="center">
-  <sub>Building, learning, and refining in public.</sub>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=healer-666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healer-666&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## Current Direction
+
+- building more reliable agent systems
+- exploring structured data intelligence
+- improving workflow memory, retrieval, and review
+- turning prototypes into usable tools
+
+---
+
+<div align="center">
+  <sub>Building practical agent systems, one workflow at a time.</sub>
 </div>
