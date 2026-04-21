@@ -1,73 +1,92 @@
 <div align="center">
   <h1>Hi, I'm Cooper</h1>
-  <p>Developer · Builder · Lifelong Learner</p>
+  <p>OUC · Qingdao, Shandong · AI Agents · Data Analysis</p>
   <p>
-    Focused on building clean, useful, and scalable products.
+    I build practical agent systems for structured data analysis,
+    with a focus on reproducible workflows, traceable execution, and usable results.
   </p>
 
   <p>
-    <a href="https://github.com/USERNAME">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-    <a href="mailto:YOUR_EMAIL">Email</a> ·
-    <a href="https://your-site.com">Website</a>
+    <a href="https://github.com/healer-666">GitHub</a>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Active-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-Building-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Structured-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Practical-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSAPP-Learning-black?style=for-the-badge" />
+</p>
 
 ---
 
 ## About Me
 
-- Currently working on **YOUR_CURRENT_FOCUS**
-- Learning **YOUR_LEARNING_TOPIC**
-- Interested in **YOUR_INTERESTS**
-- Open to **Open Source / Collaboration / Interesting Projects**
+I am currently focused on:
 
-## Tech Stack
+- building practical AI agent workflows
+- structured data analysis for academic and research scenarios
+- making analysis systems more reproducible, auditable, and easier to iterate on
+- learning by building, documenting, and refining real projects
 
-<p>
-  <img src="https://img.shields.io/badge/Code-Python-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Framework-React-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tool-Docker-black?style=for-the-badge" />
-</p>
+## Selected Projects
 
-## Featured Projects
+### My-Academic-Data-Agent
+A structured data analysis agent workspace designed for academic and research use cases.
 
-### 1. Project One
-Short one-line description of what it does and why it matters.
+- controlled analysis workflow
+- Python-based cleaning, statistics, plotting, and report generation
+- RAG-enhanced context retrieval
+- history replay, review records, and artifact export
 
-**Tech:** React, Node.js, PostgreSQL  
-**Link:** [Repository](https://github.com/USERNAME/REPO_NAME)
+**Tech:** Python, Gradio, RAG, data analysis workflow  
+**Repo:** [My-Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
 
-### 2. Project Two
-Short one-line description of what it does and why it matters.
+### csapp-datalab-
+Notes and understanding from working through the CSAPP Data Lab.
 
-**Tech:** Python, FastAPI, Redis  
-**Link:** [Repository](https://github.com/USERNAME/REPO_NAME)
+- bit-level reasoning
+- low-level problem solving
+- learning-oriented writeups
 
-### 3. Project Three
-Short one-line description of what it does and why it matters.
+**Repo:** [csapp-datalab-](https://github.com/healer-666/csapp-datalab-)
 
-**Tech:** Next.js, TypeScript  
-**Link:** [Repository](https://github.com/USERNAME/REPO_NAME)
+### hello-agents
+A fork-based learning and exploration repository around agent systems.
 
-## What I Care About
+- hands-on study of agent concepts and implementations
+- learning through open-source materials and experiments
 
-- Writing maintainable code
-- Building products with clear value
-- Shipping fast, then refining carefully
-- Continuous learning and sharing
-
-## Connect
-
-- GitHub: [@USERNAME](https://github.com/USERNAME)
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- Website: [your-site.com](https://your-site.com)
+**Repo:** [hello-agents](https://github.com/healer-666/hello-agents)
 
 ---
 
+## Current Focus
+
+- AI agents for real-world workflows
+- structured data understanding and analysis
+- better memory, retrieval, and execution design
+- turning ideas into working systems
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=healer-666&show_icons=true&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healer-666&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Philosophy
+
+I prefer projects that are:
+
+- useful instead of flashy
+- clear instead of over-engineered
+- traceable instead of opaque
+- continuously improved through practice
+
 <div align="center">
-  <sub>Minimal. Clear. Built to represent what you actually do.</sub>
+  <sub>Building, learning, and refining in public.</sub>
 </div>
