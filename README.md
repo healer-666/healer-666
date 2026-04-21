@@ -72,14 +72,6 @@ A practical academic data analysis agent for structured tabular data.
 - report generation with evidence support
 - reusable memory for successful and failed runs
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=healer-666&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=healer-666&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
