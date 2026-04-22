@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cooper
+# Hi! I'm Cooper.
 
 ### AI Agents · Structured Data Analysis · Research Workflow
 
