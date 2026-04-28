@@ -60,7 +60,7 @@ A practical academic data analysis agent for structured tabular data.
 #### Recognition
 
 - Officially included in the **Co-creation-projects** section of the **hello-agents** community repository
-- Featured by a leading open-source agent learning community with **40k+ GitHub stars**
+- Featured by a leading open-source agent learning community with **41k+ GitHub stars**
 - Built as a focused, workflow-driven agent system for academic and research data analysis
 
 #### Highlights
