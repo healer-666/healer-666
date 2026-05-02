@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Officially_Featured-Hello--Agents_Community-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
   <a href="https://github.com/datawhalechina/hello-agents">
-    <img src="https://img.shields.io/badge/hello--agents-39k%2B_stars-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/hello--agents-42k%2B_stars-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ A practical academic data analysis agent for structured tabular data.
 #### Recognition
 
 - Officially included in the **Co-creation-projects** section of the **hello-agents** community repository
-- Featured by a leading open-source agent learning community with **41k+ GitHub stars**
+- Featured by a leading open-source agent learning community with **42k+ GitHub stars**
 - Built as a focused, workflow-driven agent system for academic and research data analysis
 
 #### Highlights
