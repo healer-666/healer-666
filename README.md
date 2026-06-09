@@ -1,105 +1,42 @@
 <div align="center">
 
-# Hi! I'm Cooper.
+# Cooper · healer-666
 
-### AI Agents · Structured Data Analysis · Research Workflow
-
-<p>
-  <a href="https://github.com/healer-666">
-    <img src="https://img.shields.io/badge/GitHub-healer--666-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Qingdao,_Shandong-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/School-OUC-2563EB?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
+**AI Agents · Structured Data Analysis · Research Workflows**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-10B981?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-06B6D4?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow_Audit-E11D48?style=flat-square&logo=target&logoColor=white" />
-</p>
-
-<p>
-  <a href="https://github.com/datawhalechina/hello-agents/tree/main/Co-creation-projects/healer-666-Academic-Data-Agent">
-    <img src="https://img.shields.io/badge/Officially_Featured-Hello--Agents_Community-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  </a>
-  <a href="https://github.com/datawhalechina/hello-agents">
-    <img src="https://img.shields.io/badge/hello--agents-42k%2B_stars-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-16A34A?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-0891B2?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research_Workflow-EA580C?style=flat-square&logo=readthedocs&logoColor=white" />
 </p>
 
 </div>
 
----
+I build practical agent systems for structured data analysis, with a focus on reproducible execution, reviewable outputs, and workflows that can be inspected after they run.
 
-## About Me
+## Featured Work
 
-I’m focused on building **practical AI agent systems** for **structured data analysis**.
+### [Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
 
-My interests include:
+A research-oriented data analysis agent for tabular datasets.
 
-- agent workflow design
-- retrieval-augmented generation
-- reproducible analysis pipelines
-- traceable execution and reviewable outputs
+| Focus | What it does |
+|---|---|
+| Controlled analysis | Uses tool-driven Python analysis instead of free-form answers |
+| Traceable outputs | Saves reports, charts, traces, reviews, and run summaries |
+| Retrieval and memory | Combines external references, successful runs, and failure lessons |
+| Evaluation | Supports local DABench and DataSciBench-style evaluation workflows |
 
-> I prefer systems that are useful, auditable, and built for real workflows.
+[View repository](https://github.com/healer-666/My-Academic-Data-Agent) · [hello-agents community](https://github.com/datawhalechina/hello-agents)
 
----
+## What I Care About
 
-## Featured Project
-
-### [My-Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
-
-> Officially featured in the **hello-agents community co-creation projects**.
-
-A practical academic data analysis agent for structured tabular data.
-
-#### Recognition
-
-- Officially included in the **Co-creation-projects** section of the **hello-agents** community repository
-- Featured by a leading open-source agent learning community with **42k+ GitHub stars**
-- Built as a focused, workflow-driven agent system for academic and research data analysis
-
-#### Highlights
-
-- Controlled analysis workflow instead of free-form chatting
-- Engineering-oriented RAG with retrieval, reranking, and evidence tracking
-- Stage audit to verify analysis is actually based on cleaned full data
-- History Q&A for comparing and revisiting previous runs
-- Gradio workspace for running tasks, replaying history, and downloading artifacts
-
-#### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF6B35?style=for-the-badge&logo=gradio&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-16A34A?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSV/XLS/XLSX-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent_Workflow-7C3AED?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-</p>
-
-#### Project Focus
-
-- structured table understanding
-- automatic cleaning, statistics, and plotting
-- reviewer loop and artifact validation
-- report generation with evidence support
-- reusable memory for successful and failed runs
-
----
-
-## Current Direction
-
-- building more reliable agent systems
-- exploring structured data intelligence
-- improving workflow memory, retrieval, and review
-- turning prototypes into usable tools
-
----
+- Reliable agent workflows over impressive but untraceable demos
+- Data analysis that reads the real file, runs the code, and leaves evidence
+- Small systems with clear contracts, useful artifacts, and room to improve
 
 <div align="center">
-  <sub>Building practical agent systems, one workflow at a time.</sub>
+  <sub>Building data-analysis agents that are useful, auditable, and easier to trust.</sub>
 </div>
