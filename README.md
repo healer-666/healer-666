@@ -1,6 +1,6 @@
 <div align="center">
 
-# Cooper · healer-666
+# 👋 Cooper · healer-666
 
 **AI Agents · Structured Data Analysis · Research Workflows**
 
@@ -16,7 +16,7 @@
 
 I build practical agent systems for structured data analysis, with a focus on reproducible execution, reviewable outputs, and workflows that can be inspected after they run.
 
-## Featured Work
+## 🚀 Featured Work
 
 ### [Academic-Data-Agent](https://github.com/healer-666/My-Academic-Data-Agent)
 
@@ -24,14 +24,14 @@ A research-oriented data analysis agent for tabular datasets.
 
 | Focus | What it does |
 |---|---|
-| Controlled analysis | Uses tool-driven Python analysis instead of free-form answers |
-| Traceable outputs | Saves reports, charts, traces, reviews, and run summaries |
-| Retrieval and memory | Combines external references, successful runs, and failure lessons |
-| Evaluation | Supports local DABench and DataSciBench-style evaluation workflows |
+| 🧭 Controlled analysis | Uses tool-driven Python analysis instead of free-form answers |
+| 📌 Traceable outputs | Saves reports, charts, traces, reviews, and run summaries |
+| 🔎 Retrieval and memory | Combines external references, successful runs, and failure lessons |
+| 📊 Evaluation | Supports local DABench and DataSciBench-style evaluation workflows |
 
 [View repository](https://github.com/healer-666/My-Academic-Data-Agent) · [hello-agents community](https://github.com/datawhalechina/hello-agents)
 
-## What I Care About
+## 🧩 What I Care About
 
 - Reliable agent workflows over impressive but untraceable demos
 - Data analysis that reads the real file, runs the code, and leaves evidence
